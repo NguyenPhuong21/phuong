@@ -1,0 +1,23 @@
+aside {
+    position: fixed;
+    overflow-y: auto;
+    top: 60px;
+    left: 0;
+    bottom: 0;
+    width: 230px;
+    padding: 20px;
+    border-right: 1px solid #eee;
+    background: #fff;
+  }
+  .menu {
+    background: #e5e5e5;
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.menu ul {
+    list-style-type: none;
+}
+

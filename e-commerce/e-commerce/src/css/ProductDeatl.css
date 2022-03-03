@@ -1,0 +1,28 @@
+#main{
+    width: calc(100% - 230px);
+    border: 1px solid #c3c3c3;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 60px;
+    margin-left: 230px;
+}
+#main >div {
+    border: 1px solid #c3c3c3;
+    width: 23%;
+    height: 320px;
+    margin: 12px 0 0 20px;
+  }
+.ProcductDetail_img{
+    display: flex;
+    justify-content: center;
+}
+
+
+.ProcductDetail_title{
+    margin-top: 24px;
+    display: flex;
+    justify-content: center;
+}
+.ProcductDetail_ratings{
+    margin-top: 24px;
+}

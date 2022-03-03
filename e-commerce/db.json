@@ -1,0 +1,173 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Dell - Inspiron 15.6 Touch-Screen Laptop - Intel Core i5 - 6GB Memory - 1TB Hard Drive - Black",
+      "category": "Technological",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5588602_sb.jpg",
+      "price": 120,
+      "countInStock": 10,
+      "brand": "HP",
+      "rating": 4.5,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 2,
+      "name": "Apple - MacBook Air® (Latest Model) - 13.3 Display - Intel Core i5 - 8GB Memory - 128GB Flash Storage - Silver",
+      "category": "Insigia",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/6443034_sb.jpg",
+      "price": 130,
+      "countInStock": 0,
+      "brand": "Apple",
+      "rating": 4,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 3,
+      "name": "AT&T GoPhone - Samsung Galaxy Express 3 4G LTE with 8GB Memory Prepaid Cell Phone",
+      "category": "Insigia",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4984700_sb.jpg",
+      "price": 130,
+      "countInStock": 0,
+      "brand": "Samsung ",
+      "rating": 4,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 4,
+      "name": "Insignia™ - Portable Wireless Speaker - Black",
+      "category": "Technological",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5496202_sb.jpg",
+      "price": 130,
+      "countInStock": 0,
+      "brand": "Insignia",
+      "rating": 4,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 5,
+      "name": "Metra - License Plate Back-Up Camera - Black",
+      "category": "Technological",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/1570003_sb.jpg",
+      "price": 130,
+      "countInStock": 0,
+      "brand": "Metra ",
+      "rating": 3,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 6,
+      "name": "Metra - 10 Single Sealed Subwoofer Enclosure - Charcoal",
+      "category": "Technological",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5937337_rb.jpg",
+      "price": 130,
+      "countInStock": 0,
+      "brand": "Metra",
+      "rating": 1,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 7,
+      "name": "Apple - EarPods™ with Remote and Mic - White",
+      "category": "Technological",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/6848136_sb.jpg",
+      "price": 130,
+      "countInStock": 0,
+      "brand": "Apple",
+      "rating": 5,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 8,
+      "name": "Apple - Apple Watch Series 1 38mm Rose Gold Aluminum Case Pink Sand Sport Band - Rose Gold Aluminum",
+      "category": "Technological",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5546004_sb.jpg",
+      "price": 130,
+      "countInStock": 0,
+      "brand": "Apple",
+      "rating": 4,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 9,
+      "name": "Apple - iPad Air 2 Wi-Fi 32GB - Gold",
+      "category": "Technological",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5495358_sb.jpg",
+      "price": 130,
+      "countInStock": 0,
+      "brand": "Apple",
+      "rating": 4,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 10,
+      "name": "HP - 25 IPS LED HD Monitor - Natural silver",
+      "category": "Technological",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5029703_sb.jpg",
+      "price": 130,
+      "countInStock": 0,
+      "brand": "HP",
+      "rating": 2,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 11,
+      "name": "HP - ENVY 4520 Wireless All-In-One Instant Ink Ready Printer - Black",
+      "category": "Technological",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4363404_sb.jpg",
+      "price": 125,
+      "countInStock": 0,
+      "brand": "HP ",
+      "rating": 4,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 12,
+      "name": "Samsung - Galaxy Tab A - 10.1 - 16GB - Black",
+      "category": "Technological",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5364800_sb.jpg",
+      "price": 110,
+      "countInStock": 0,
+      "brand": "Samsung",
+      "rating": 3,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 13,
+      "name": "Samsung - 40 Class (40 Diag.) - LED - 1080p - Smart - HDTV - Black",
+      "category": "Technological",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/6422016_sb.jpg",
+      "price": 150,
+      "countInStock": 0,
+      "brand": "Samsung ",
+      "rating": 4,
+      "numReviews": 10,
+      "description": "High quality product"
+    },
+    {
+      "id": 14,
+      "name": "Insignia - 40 Class (40 Diag.) - LED - 1080p - HDTV - Black",
+      "category": "Technological",
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4863600_sb.jpg",
+      "price": 135,
+      "countInStock": 0,
+      "brand": "Insignia",
+      "rating": 5,
+      "numReviews": 10,
+      "description": "High quality product"
+    }
+    
+  ]
+}
